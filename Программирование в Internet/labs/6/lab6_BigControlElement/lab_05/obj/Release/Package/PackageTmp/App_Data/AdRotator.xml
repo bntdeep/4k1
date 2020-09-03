@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>/image/minion 0.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>1</Impressions>
+    <Keyword>b1</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/minion 1.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>2</Impressions>
+    <Keyword>b2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/minion 2.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>4</Impressions>
+    <Keyword>b2</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/minion 3.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>8</Impressions>
+    <Keyword>b1</Keyword>
+  </Ad>
+</Advertisements>

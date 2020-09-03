@@ -1,0 +1,5 @@
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\bin\lab_05.dll.config
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\bin\lab_05.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\bin\lab_05.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\obj\Release\lab_05.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\obj\Release\lab_05.pdb

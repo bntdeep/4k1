@@ -1,0 +1,6 @@
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_04\lab_04\bin\lab_04.dll.config
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_04\lab_04\bin\lab_04.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_04\lab_04\bin\lab_04.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_04\lab_04\obj\Debug\lab_04.csprojResolveAssemblyReference.cache
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_04\lab_04\obj\Debug\lab_04.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_04\lab_04\obj\Debug\lab_04.pdb

@@ -1,0 +1,41 @@
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\bin\Debug\WFHost.exe.config
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\bin\Debug\WFHost.exe
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\bin\Debug\WFHost.pdb
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\bin\Debug\WCFdll.dll
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\bin\Debug\WCFdll.pdb
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\obj\Debug\WFHost.csprojResolveAssemblyReference.cache
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\obj\Debug\WFHost.Properties.Resources.resources
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\obj\Debug\WFHost.csproj.GenerateResource.Cache
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\obj\Debug\WFHost.exe
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WFHost\WFHost\obj\Debug\WFHost.pdb
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\bin\Debug\WFHost.exe.config
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\obj\Debug\WFHost.exe
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\obj\Debug\WFHost.pdb
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\bin\Debug\WFHost.exe
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\bin\Debug\WFHost.pdb
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\bin\Debug\WCFdll.dll
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\bin\Debug\WCFdll.pdb
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\obj\Debug\WFHost.csprojResolveAssemblyReference.cache
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\obj\Debug\WFHost.Properties.Resources.resources
+D:\Study3\Лабараторные работы ПИ\Lab13\WFHost\WFHost\obj\Debug\WFHost.csproj.GenerateResource.Cache
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\bin\Debug\WFHost.exe.config
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\obj\Debug\WFHost.exe
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\obj\Debug\WFHost.pdb
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\bin\Debug\WFHost.exe
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\bin\Debug\WFHost.pdb
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\bin\Debug\WCFdll.dll
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\bin\Debug\WCFdll.pdb
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\obj\Debug\WFHost.csprojResolveAssemblyReference.cache
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\obj\Debug\WFHost.Properties.Resources.resources
+C:\Users\user1_000\Desktop\lasbs\38\WFHost\WFHost\obj\Debug\WFHost.csproj.GenerateResource.Cache
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\bin\Debug\WFHost.exe.config
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\bin\Debug\WFHost.exe
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\bin\Debug\WFHost.pdb
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\bin\Debug\WCFdll.dll
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\bin\Debug\WCFdll.pdb
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\bin\Debug\WCFdll.dll.config
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\obj\Debug\WFHost.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\obj\Debug\WFHost.Properties.Resources.resources
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\obj\Debug\WFHost.csproj.GenerateResource.Cache
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\obj\Debug\WFHost.exe
+D:\learn\Программирование в Internet\labs\13\WFHost\WFHost\obj\Debug\WFHost.pdb

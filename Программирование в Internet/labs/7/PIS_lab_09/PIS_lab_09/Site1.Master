@@ -1,0 +1,34 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="PIS_lab_09.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div style="
+    padding: 20px;
+    margin: 20px;
+    border: dashed;
+    border-width: 3px;
+    border-color: darkcyan;">
+
+         <asp:Label Font-Size="16" ForeColor="Red" Font-Bold="true" runat="server" Text="This is" />
+        <h1>Master Page</h1>
+        <hr />
+
+        <asp:ContentPlaceHolder ID="cph" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+       
+
+    </div>
+    </form>
+</body>
+</html>

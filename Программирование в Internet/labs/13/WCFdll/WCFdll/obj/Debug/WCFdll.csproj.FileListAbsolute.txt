@@ -1,0 +1,28 @@
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WCFdll\WCFdll\bin\Debug\WCFdll.dll.config
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WCFdll\WCFdll\bin\Debug\WCFdll.dll
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WCFdll\WCFdll\bin\Debug\WCFdll.pdb
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WCFdll\WCFdll\obj\Debug\WCFdll.csprojResolveAssemblyReference.cache
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WCFdll\WCFdll\obj\Debug\WCFdll.dll
+D:\Учёба\4 курс\ПИ2016\Labs\Lab13\WCFdll\WCFdll\obj\Debug\WCFdll.pdb
+D:\Study3\Лабараторные работы ПИ\Lab13\WCFdll\WCFdll\bin\Debug\WCFdll.dll.config
+D:\Study3\Лабараторные работы ПИ\Lab13\WCFdll\WCFdll\bin\Debug\WCFdll.dll
+D:\Study3\Лабараторные работы ПИ\Lab13\WCFdll\WCFdll\bin\Debug\WCFdll.pdb
+D:\Study3\Лабараторные работы ПИ\Lab13\WCFdll\WCFdll\obj\Debug\WCFdll.csprojResolveAssemblyReference.cache
+D:\Study3\Лабараторные работы ПИ\Lab13\WCFdll\WCFdll\obj\Debug\WCFdll.dll
+D:\Study3\Лабараторные работы ПИ\Lab13\WCFdll\WCFdll\obj\Debug\WCFdll.pdb
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\bin\Debug\WCFdll.dll.config
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\bin\Debug\WCFdll.dll
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\bin\Debug\WCFdll.pdb
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\obj\Debug\WCFdll.Properties.Resources.resources
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\obj\Debug\WCFdll.csproj.GenerateResource.Cache
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\obj\Debug\WCFdll.dll
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\obj\Debug\WCFdll.pdb
+C:\Users\user1_000\Desktop\lasbs\38\WCFdll\WCFdll\obj\Debug\WCFdll.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\bin\Debug\WCFdll.dll.config
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\bin\Debug\WCFdll.dll
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\bin\Debug\WCFdll.pdb
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\obj\Debug\WCFdll.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\obj\Debug\WCFdll.Properties.Resources.resources
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\obj\Debug\WCFdll.csproj.GenerateResource.Cache
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\obj\Debug\WCFdll.dll
+D:\learn\Программирование в Internet\labs\13\WCFdll\WCFdll\obj\Debug\WCFdll.pdb

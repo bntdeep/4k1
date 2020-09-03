@@ -1,0 +1,25 @@
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_01\lab_05\lab_05\bin\lab_05.dll.config
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_01\lab_05\lab_05\bin\lab_05.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_01\lab_05\lab_05\bin\lab_05.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_01\lab_05\lab_05\obj\Debug\lab_05.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_01\lab_05\lab_05\obj\Debug\lab_05.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_01\lab_05\lab_05\obj\Debug\lab_05.csprojResolveAssemblyReference.cache
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\bin\lab_05.dll.config
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\bin\lab_05.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\bin\lab_05.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.csprojResolveAssemblyReference.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\bin\lab_05.dll.config
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\bin\lab_05.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\bin\lab_05.pdb
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.csprojResolveAssemblyReference.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.csproj.CoreCompileInputs.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_05\lab_05\obj\Debug\lab_05.pdb
+D:\learn\Программирование в Internet\labs\6\lab6_BigControlElement\lab_05\bin\lab_05.dll.config
+D:\learn\Программирование в Internet\labs\6\lab6_BigControlElement\lab_05\bin\lab_05.dll
+D:\learn\Программирование в Internet\labs\6\lab6_BigControlElement\lab_05\bin\lab_05.pdb
+D:\learn\Программирование в Internet\labs\6\lab6_BigControlElement\lab_05\obj\Debug\lab_05.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\6\lab6_BigControlElement\lab_05\obj\Debug\lab_05.dll
+D:\learn\Программирование в Internet\labs\6\lab6_BigControlElement\lab_05\obj\Debug\lab_05.pdb

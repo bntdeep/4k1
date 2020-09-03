@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>/image/sb1.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>1</Impressions>
+    <Keyword>bob</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/sb2.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>2</Impressions>
+    <Keyword>bob</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/sb3.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>4</Impressions>
+    <Keyword>bob</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/sp.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>8</Impressions>
+    <Keyword>park</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>/image/sp1.jpg</ImageUrl>
+    <Height>300</Height>
+    <Impressions>3</Impressions>
+    <Keyword>park</Keyword>
+  </Ad>
+</Advertisements>

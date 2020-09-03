@@ -1,0 +1,19 @@
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_04.csprojResolveAssemblyReference.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_04.csproj.CoreCompileInputs.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\bin\lab_06.dll.config
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\bin\lab_06.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\bin\lab_06.pdb
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.pdb
+D:\learn\Программирование в Internet\labs\from dimasik\lab4_Validation\lab_06\bin\lab_06.dll.config
+D:\learn\Программирование в Internet\labs\from dimasik\lab4_Validation\lab_06\bin\lab_06.dll
+D:\learn\Программирование в Internet\labs\from dimasik\lab4_Validation\lab_06\bin\lab_06.pdb
+D:\learn\Программирование в Internet\labs\from dimasik\lab4_Validation\lab_06\obj\Debug\lab_04.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\from dimasik\lab4_Validation\lab_06\obj\Debug\lab_06.dll
+D:\learn\Программирование в Internet\labs\from dimasik\lab4_Validation\lab_06\obj\Debug\lab_06.pdb
+D:\learn\Программирование в Internet\labs\4\lab4_Validation\lab_06\bin\lab_06.dll.config
+D:\learn\Программирование в Internet\labs\4\lab4_Validation\lab_06\bin\lab_06.dll
+D:\learn\Программирование в Internet\labs\4\lab4_Validation\lab_06\bin\lab_06.pdb
+D:\learn\Программирование в Internet\labs\4\lab4_Validation\lab_06\obj\Debug\lab_04.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\4\lab4_Validation\lab_06\obj\Debug\lab_06.dll
+D:\learn\Программирование в Internet\labs\4\lab4_Validation\lab_06\obj\Debug\lab_06.pdb

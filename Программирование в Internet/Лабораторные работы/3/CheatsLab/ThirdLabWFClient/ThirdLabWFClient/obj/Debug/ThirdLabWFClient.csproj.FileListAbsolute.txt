@@ -1,0 +1,18 @@
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\bin\Debug\ThirdLabWFClient.exe.config
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\bin\Debug\ThirdLabWFClient.exe
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\bin\Debug\ThirdLabWFClient.pdb
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.csprojResolveAssemblyReference.cache
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.Form1.resources
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.Properties.Resources.resources
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.csproj.GenerateResource.Cache
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.exe
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.pdb
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\bin\Debug\ThirdLabWFClient.exe.config
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\bin\Debug\ThirdLabWFClient.exe
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\bin\Debug\ThirdLabWFClient.pdb
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.Form1.resources
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.Properties.Resources.resources
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.csproj.GenerateResource.Cache
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.exe
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabWFClient\ThirdLabWFClient\obj\Debug\ThirdLabWFClient.pdb

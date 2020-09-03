@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\UNIVERSITY\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AdRotator.xml">
+      <publishTime>03/12/2017 01:15:53</publishTime>
+    </File>
+    <File Include="App_Data/AdRotator.xml">
+      <publishTime>03/12/2017 01:15:53</publishTime>
+    </File>
+    <File Include="Banner1.aspx">
+      <publishTime>03/12/2017 00:17:06</publishTime>
+    </File>
+    <File Include="Banner2.aspx">
+      <publishTime>03/12/2017 00:17:18</publishTime>
+    </File>
+    <File Include="bin/lab_05.dll">
+      <publishTime>03/12/2017 17:23:43</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>03/12/2017 17:23:14</publishTime>
+    </File>
+    <File Include="FFE.aspx">
+      <publishTime>03/12/2017 17:09:00</publishTime>
+    </File>
+    <File Include="image/1.png">
+      <publishTime>03/12/2017 15:08:39</publishTime>
+    </File>
+    <File Include="image/2.png">
+      <publishTime>03/12/2017 15:08:58</publishTime>
+    </File>
+    <File Include="image/3.png">
+      <publishTime>03/12/2017 15:09:10</publishTime>
+    </File>
+    <File Include="image/background.jpg">
+      <publishTime>03/12/2017 13:27:12</publishTime>
+    </File>
+    <File Include="image/minion 0.jpg">
+      <publishTime>03/12/2017 00:26:36</publishTime>
+    </File>
+    <File Include="image/minion 1.jpg">
+      <publishTime>03/12/2017 00:26:36</publishTime>
+    </File>
+    <File Include="image/minion 2.jpg">
+      <publishTime>03/12/2017 00:26:36</publishTime>
+    </File>
+    <File Include="image/minion 3.jpg">
+      <publishTime>03/12/2017 00:26:36</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/12/2017 17:06:18</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

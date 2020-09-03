@@ -1,0 +1,6 @@
+D:\learn\Программирование в Internet\Лекция_01_Введение_в_ASP.NET\ZipArchiveRead\ZipArchiveRead\bin\Debug\ZipArchiveRead.exe.config
+D:\learn\Программирование в Internet\Лекция_01_Введение_в_ASP.NET\ZipArchiveRead\ZipArchiveRead\bin\Debug\ZipArchiveRead.exe
+D:\learn\Программирование в Internet\Лекция_01_Введение_в_ASP.NET\ZipArchiveRead\ZipArchiveRead\bin\Debug\ZipArchiveRead.pdb
+D:\learn\Программирование в Internet\Лекция_01_Введение_в_ASP.NET\ZipArchiveRead\ZipArchiveRead\obj\Debug\ZipArchiveRead.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\Лекция_01_Введение_в_ASP.NET\ZipArchiveRead\ZipArchiveRead\obj\Debug\ZipArchiveRead.exe
+D:\learn\Программирование в Internet\Лекция_01_Введение_в_ASP.NET\ZipArchiveRead\ZipArchiveRead\obj\Debug\ZipArchiveRead.pdb

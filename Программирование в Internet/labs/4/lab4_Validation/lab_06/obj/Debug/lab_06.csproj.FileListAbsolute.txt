@@ -1,0 +1,13 @@
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_06\lab_06\bin\lab_06.dll.config
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_06\lab_06\bin\lab_06.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_06\lab_06\bin\lab_06.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.dll
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.pdb
+C:\UNIVERSITY\Programming of Internet servers\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.csprojResolveAssemblyReference.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\bin\lab_06.dll.config
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\bin\lab_06.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\bin\lab_06.pdb
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.csprojResolveAssemblyReference.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.csproj.CoreCompileInputs.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab_06\lab_06\obj\Debug\lab_06.pdb

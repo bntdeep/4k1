@@ -1,0 +1,13 @@
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\bin\lab_04.dll.config
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\bin\lab_04.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\bin\lab_04.pdb
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\obj\Debug\lab_05.csprojResolveAssemblyReference.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\obj\Debug\lab_05.csproj.CoreCompileInputs.cache
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\obj\Debug\lab_04.dll
+D:\Studies\4course\7sem\PI\Лабораторные работы\lab5_ControlElement\lab_04\obj\Debug\lab_04.pdb
+D:\learn\Программирование в Internet\labs\5\lab5_ControlElement\lab_04\bin\lab_04.dll.config
+D:\learn\Программирование в Internet\labs\5\lab5_ControlElement\lab_04\bin\lab_04.dll
+D:\learn\Программирование в Internet\labs\5\lab5_ControlElement\lab_04\bin\lab_04.pdb
+D:\learn\Программирование в Internet\labs\5\lab5_ControlElement\lab_04\obj\Debug\lab_05.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\5\lab5_ControlElement\lab_04\obj\Debug\lab_04.dll
+D:\learn\Программирование в Internet\labs\5\lab5_ControlElement\lab_04\obj\Debug\lab_04.pdb

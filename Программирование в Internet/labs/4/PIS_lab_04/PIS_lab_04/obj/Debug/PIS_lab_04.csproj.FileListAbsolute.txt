@@ -1,0 +1,68 @@
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\ApplicationInsights.config
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\PIS_lab_04.dll.config
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\PIS_lab_04.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\PIS_lab_04.pdb
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.Web.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.ApplicationInsights.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\System.IO.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\System.Runtime.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\System.Threading.Tasks.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.Web.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.ApplicationInsights.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\System.IO.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\System.Runtime.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\bin\System.Threading.Tasks.xml
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.csproj.App.config
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.csprojResolveAssemblyReference.cache
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.dll
+C:\Users\BNT\Desktop\ASP.NET-master\ASP.NET-master\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.pdb
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\ApplicationInsights.config
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\PIS_lab_04.dll.config
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\PIS_lab_04.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\PIS_lab_04.pdb
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.Agent.Intercept.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.DependencyCollector.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.Web.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.WindowsServer.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.ApplicationInsights.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\System.IO.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\System.Runtime.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\System.Threading.Tasks.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.DependencyCollector.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.Web.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.AI.WindowsServer.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.ApplicationInsights.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\System.IO.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\System.Runtime.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\bin\System.Threading.Tasks.xml
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.csproj.App.config
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.dll
+D:\learn\Программирование в Internet\labs\4\PIS_lab_04\PIS_lab_04\obj\Debug\PIS_lab_04.pdb

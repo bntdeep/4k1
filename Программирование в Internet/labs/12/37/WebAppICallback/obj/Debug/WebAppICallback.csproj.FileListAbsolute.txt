@@ -1,0 +1,557 @@
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ApplicationInsights.config
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\csc.exe
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\System.Collections.Immutable.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\System.Reflection.Metadata.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\vbc.exe
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\VBCSCompiler.exe
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\VBCSCompiler.exe.config
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.dll.config
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.pdb
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Antlr3.Runtime.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\AspNet.ScriptManager.jQuery.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.SqlServer.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Agent.Intercept.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.DependencyCollector.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.PerfCounterCollector.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Web.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.WindowsServer.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ApplicationInsights.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Google.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Web.Infrastructure.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Newtonsoft.Json.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Owin.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Optimization.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Providers.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebGrease.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.DependencyCollector.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Web.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.WindowsServer.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ApplicationInsights.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Optimization.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Antlr3.Runtime.pdb
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Newtonsoft.Json.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.SqlServer.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Providers.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Google.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.xml
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\System.Web.Optimization.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\EntityFramework.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\EntityFramework.SqlServer.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.csprojResolveAssemblyReference.cache
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.dll
+I:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.pdb
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ApplicationInsights.config
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\csc.exe
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\System.Collections.Immutable.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\System.Reflection.Metadata.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\vbc.exe
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\VBCSCompiler.exe
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\VBCSCompiler.exe.config
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.pdb
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Antlr3.Runtime.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\AspNet.ScriptManager.bootstrap.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\AspNet.ScriptManager.jQuery.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.SqlServer.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Agent.Intercept.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.DependencyCollector.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Web.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.WindowsServer.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ApplicationInsights.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Google.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ScriptManager.MSAjax.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ScriptManager.WebForms.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Web.Infrastructure.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Newtonsoft.Json.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Owin.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Optimization.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Providers.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebGrease.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.DependencyCollector.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Web.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.WindowsServer.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ApplicationInsights.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Optimization.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Antlr3.Runtime.pdb
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Newtonsoft.Json.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.SqlServer.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Providers.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Google.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.xml
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\System.Web.Optimization.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\EntityFramework.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\EntityFramework.SqlServer.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.csprojResolveAssemblyReference.cache
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.dll
+G:\Ничего\АСПА НЕТ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.pdb
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ApplicationInsights.config
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\csc.exe
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\System.Collections.Immutable.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\System.Reflection.Metadata.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\vbc.exe
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\VBCSCompiler.exe
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\roslyn\VBCSCompiler.exe.config
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.dll.config
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebAppICallback.pdb
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Antlr3.Runtime.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\AspNet.ScriptManager.jQuery.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.SqlServer.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.DependencyCollector.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Web.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.WindowsServer.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ApplicationInsights.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Google.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Web.Infrastructure.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Newtonsoft.Json.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Owin.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Optimization.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Providers.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\WebGrease.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.DependencyCollector.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.Web.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AI.WindowsServer.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.ApplicationInsights.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Optimization.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Antlr3.Runtime.pdb
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Newtonsoft.Json.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\EntityFramework.SqlServer.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\System.Web.Providers.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Google.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\System.Web.Optimization.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\EntityFramework.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.csprojResolveAssemblyReference.cache
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.dll
+C:\Study\kurs_4\ПИ\Лабораторные работы\WebAppICallback\WebAppICallback\obj\Debug\WebAppICallback.pdb
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ApplicationInsights.config
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\csc.exe
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\vbc.exe
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\VBCSCompiler.exe
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\WebAppICallback.dll.config
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\WebAppICallback.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\WebAppICallback.pdb
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Antlr3.Runtime.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\EntityFramework.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\EntityFramework.SqlServer.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.Web.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.ApplicationInsights.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Newtonsoft.Json.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Owin.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\System.Web.Optimization.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\System.Web.Providers.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\WebGrease.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.Web.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.ApplicationInsights.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\System.Web.Optimization.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Antlr3.Runtime.pdb
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Newtonsoft.Json.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\EntityFramework.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\EntityFramework.SqlServer.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\System.Web.Providers.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\EntityFramework.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\obj\Debug\WebAppICallback.csprojResolveAssemblyReference.cache
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\obj\Debug\WebAppICallback.dll
+C:\Users\user1_000\Desktop\lasbs\37\WebAppICallback\obj\Debug\WebAppICallback.pdb
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ApplicationInsights.config
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\csc.exe
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\System.Collections.Immutable.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\System.Reflection.Metadata.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\vbc.exe
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\VBCSCompiler.exe
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\roslyn\VBCSCompiler.exe.config
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\WebAppICallback.dll.config
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\WebAppICallback.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\WebAppICallback.pdb
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Antlr3.Runtime.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\AspNet.ScriptManager.jQuery.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\EntityFramework.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\EntityFramework.SqlServer.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.DependencyCollector.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.Web.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.WindowsServer.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.ApplicationInsights.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Google.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Web.Infrastructure.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Newtonsoft.Json.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Owin.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\System.Web.Optimization.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\System.Web.Providers.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\WebGrease.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.DependencyCollector.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.Web.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AI.WindowsServer.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.ApplicationInsights.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\System.Web.Optimization.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Antlr3.Runtime.pdb
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Newtonsoft.Json.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\EntityFramework.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\EntityFramework.SqlServer.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\System.Web.Providers.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Google.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\System.Web.Optimization.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\EntityFramework.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\obj\Debug\WebAppICallback.csprojResolveAssemblyReference.cache
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\obj\Debug\WebAppICallback.dll
+E:\Univer\Smelov\PIS\ОСЕНЬ\Лабораторные работы\Gotov\RL\37\WebAppICallback\obj\Debug\WebAppICallback.pdb
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ApplicationInsights.config
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\csc.exe
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\System.Collections.Immutable.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\System.Reflection.Metadata.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\vbc.exe
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\VBCSCompiler.exe
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\roslyn\VBCSCompiler.exe.config
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\WebAppICallback.dll.config
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\WebAppICallback.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\WebAppICallback.pdb
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Antlr3.Runtime.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\AspNet.ScriptManager.bootstrap.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\AspNet.ScriptManager.jQuery.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\EntityFramework.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\EntityFramework.SqlServer.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.Agent.Intercept.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.DependencyCollector.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.Web.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.WindowsServer.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.ApplicationInsights.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Google.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.ScriptManager.WebForms.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Web.Infrastructure.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Newtonsoft.Json.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Owin.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\System.Web.Optimization.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\System.Web.Providers.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\WebGrease.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.DependencyCollector.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.Web.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AI.WindowsServer.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.ApplicationInsights.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\System.Web.Optimization.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Antlr3.Runtime.pdb
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Newtonsoft.Json.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\EntityFramework.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\EntityFramework.SqlServer.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Core.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\System.Web.Providers.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Facebook.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Cookies.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Google.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.Twitter.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\Microsoft.Owin.Security.OAuth.xml
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\System.Web.Optimization.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.AspNet.FriendlyUrls.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\EntityFramework.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\obj\Debug\WebAppICallback.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\obj\Debug\WebAppICallback.dll
+D:\learn\Программирование в Internet\labs\12\37\WebAppICallback\obj\Debug\WebAppICallback.pdb

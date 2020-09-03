@@ -1,0 +1,40 @@
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\csc.exe
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\System.Collections.Immutable.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\System.Reflection.Metadata.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\vbc.exe
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\VBCSCompiler.exe
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\roslyn\VBCSCompiler.exe.config
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\ThirdLabClient.dll.config
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\ThirdLabClient.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\ThirdLabClient.pdb
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\obj\Debug\ThirdLabClient.csprojResolveAssemblyReference.cache
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\obj\Debug\ThirdLabClient.dll
+E:\Мои файлы\Учеба\7 семестр\Программирование в Интернет\ThirdLabClient\ThirdLabClient\obj\Debug\ThirdLabClient.pdb
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\csc.exe
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\System.Collections.Immutable.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\System.Reflection.Metadata.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\vbc.exe
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\VBCSCompiler.exe
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\roslyn\VBCSCompiler.exe.config
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\ThirdLabClient.dll.config
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\ThirdLabClient.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\ThirdLabClient.pdb
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\obj\Debug\ThirdLabClient.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\obj\Debug\ThirdLabClient.dll
+D:\learn\Программирование в Internet\Лабораторные работы\3\CheatsLab\ThirdLabClient\ThirdLabClient\obj\Debug\ThirdLabClient.pdb

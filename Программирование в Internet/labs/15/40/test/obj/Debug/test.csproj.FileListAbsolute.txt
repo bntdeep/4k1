@@ -1,0 +1,258 @@
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\test.dll.config
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\test.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\test.pdb
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Antlr3.Runtime.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\EntityFramework.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\EntityFramework.SqlServer.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Google.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Web.Infrastructure.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Newtonsoft.Json.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Owin.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Net.Http.Formatting.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Helpers.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Http.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Http.Owin.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Http.WebHost.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Mvc.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Optimization.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Razor.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.WebPages.Deployment.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.WebPages.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.WebPages.Razor.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\WebGrease.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Newtonsoft.Json.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Net.Http.Formatting.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Helpers.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Http.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Http.WebHost.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Mvc.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Optimization.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Razor.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.WebPages.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.WebPages.Deployment.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.WebPages.Razor.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Antlr3.Runtime.pdb
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\EntityFramework.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\EntityFramework.SqlServer.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Google.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\System.Web.Http.Owin.xml
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Helpers.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Http.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Mvc.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Optimization.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Razor.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.WebPages.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\EntityFramework.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\bin\ru\System.Web.Http.Owin.resources.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\obj\Debug\test.dll
+D:\Дмитрий\Программы\программирование в Internet\C#\labs\test\test\obj\Debug\test.pdb
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\test.dll.config
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\test.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\test.pdb
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Antlr3.Runtime.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\EntityFramework.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\EntityFramework.SqlServer.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.AspNet.Identity.Core.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Cookies.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Facebook.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Google.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.OAuth.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Twitter.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Web.Infrastructure.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Newtonsoft.Json.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Owin.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Net.Http.Formatting.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Helpers.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Http.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Http.Owin.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Http.WebHost.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Mvc.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Optimization.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Razor.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.WebPages.Deployment.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.WebPages.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.WebPages.Razor.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\WebGrease.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Newtonsoft.Json.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Net.Http.Formatting.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Helpers.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Http.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Http.WebHost.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Mvc.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Optimization.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Razor.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.WebPages.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.WebPages.Deployment.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.WebPages.Razor.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Antlr3.Runtime.pdb
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\EntityFramework.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\EntityFramework.SqlServer.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.AspNet.Identity.Core.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Facebook.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Cookies.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.OAuth.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Google.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.Twitter.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\System.Web.Http.Owin.xml
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Helpers.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Http.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Mvc.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Optimization.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Razor.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.WebPages.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\EntityFramework.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\bin\ru\System.Web.Http.Owin.resources.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\obj\Debug\test.dll
+D:\4 курс\ПИ\лабы\Лабораторные работы\lab14\test\obj\Debug\test.pdb
+C:\Users\user1_000\Desktop\lab14\test\bin\test.dll.config
+C:\Users\user1_000\Desktop\lab14\test\bin\test.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\test.pdb
+C:\Users\user1_000\Desktop\lab14\test\bin\Antlr3.Runtime.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\EntityFramework.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\EntityFramework.SqlServer.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Newtonsoft.Json.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Owin.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Net.Http.Formatting.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Helpers.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Http.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Http.Owin.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Http.WebHost.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Mvc.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Optimization.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Razor.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.WebPages.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.WebPages.Razor.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\WebGrease.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\Newtonsoft.Json.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Net.Http.Formatting.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Helpers.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Http.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Http.WebHost.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Mvc.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Optimization.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Razor.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.WebPages.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.WebPages.Razor.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Antlr3.Runtime.pdb
+C:\Users\user1_000\Desktop\lab14\test\bin\EntityFramework.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\EntityFramework.SqlServer.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\System.Web.Http.Owin.xml
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Http.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Razor.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\EntityFramework.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\bin\ru\System.Web.Http.Owin.resources.dll
+C:\Users\user1_000\Desktop\lab14\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\Users\user1_000\Desktop\lab14\test\obj\Debug\test.dll
+C:\Users\user1_000\Desktop\lab14\test\obj\Debug\test.pdb

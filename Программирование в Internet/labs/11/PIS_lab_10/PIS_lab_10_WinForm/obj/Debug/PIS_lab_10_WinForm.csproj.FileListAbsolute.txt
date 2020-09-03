@@ -1,0 +1,8 @@
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\bin\Debug\PIS_lab_10_WinForm.exe.config
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\bin\Debug\PIS_lab_10_WinForm.exe
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\bin\Debug\PIS_lab_10_WinForm.pdb
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\obj\Debug\PIS_lab_10_WinForm.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\obj\Debug\PIS_lab_10_WinForm.Properties.Resources.resources
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\obj\Debug\PIS_lab_10_WinForm.csproj.GenerateResource.Cache
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\obj\Debug\PIS_lab_10_WinForm.exe
+D:\learn\Программирование в Internet\labs\11\PIS_lab_10\PIS_lab_10_WinForm\obj\Debug\PIS_lab_10_WinForm.pdb

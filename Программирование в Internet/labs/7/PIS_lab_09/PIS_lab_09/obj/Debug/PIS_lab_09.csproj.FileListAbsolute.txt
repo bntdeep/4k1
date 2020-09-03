@@ -1,0 +1,69 @@
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\ApplicationInsights.config
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\PIS_lab_09.dll.config
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\PIS_lab_09.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\PIS_lab_09.pdb
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.Agent.Intercept.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.DependencyCollector.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.Web.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.WindowsServer.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.ApplicationInsights.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\System.IO.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\System.Runtime.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\System.Threading.Tasks.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.DependencyCollector.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.Web.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.WindowsServer.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.ApplicationInsights.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\System.IO.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\System.Runtime.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\bin\System.Threading.Tasks.xml
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.csproj.App.config
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.dll
+D:\learn\Программирование в Internet\Лабораторные работы\ASP.NET-master\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.pdb
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\ApplicationInsights.config
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\PIS_lab_09.dll.config
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\PIS_lab_09.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\PIS_lab_09.pdb
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.Agent.Intercept.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.DependencyCollector.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.Web.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.WindowsServer.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.ApplicationInsights.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Diagnostics.Tracing.EventSource.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.Desktop.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\System.IO.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\System.Runtime.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\System.Threading.Tasks.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.DependencyCollector.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.Web.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.AI.WindowsServer.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.ApplicationInsights.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Diagnostics.Tracing.EventSource.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\Microsoft.Threading.Tasks.Extensions.Desktop.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\System.IO.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\System.Runtime.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\bin\System.Threading.Tasks.xml
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.csproj.App.config
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.csprojResolveAssemblyReference.cache
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.dll
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.pdb
+D:\learn\Программирование в Internet\labs\7\PIS_lab_09\PIS_lab_09\obj\Debug\PIS_lab_09.csproj.CoreCompileInputs.cache
